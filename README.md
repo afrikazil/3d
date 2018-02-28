@@ -1,4 +1,3 @@
 # 3d
-first 3d on js
+first 3d on js, to fun only ))
 
-First 3d project. To fun only ))
